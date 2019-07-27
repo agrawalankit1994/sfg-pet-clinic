@@ -4,9 +4,10 @@
 	<parent>
 		<groupId>com.springframework</groupId>
 		<artifactId>sfg-pet-clinic</artifactId>
-		<version>0.0.2</version>
+		<version>0.0.3-SNAPSHOT</version>
 	</parent>
 	<artifactId>pet-clinic-web</artifactId>
+  <version>0.0.1</version>
 	<name>pet-clinic-web</name>
 	<url>http://maven.apache.org</url>
 	<properties>
@@ -47,6 +48,6 @@
 	</dependencies>
 
   <scm>
-    <tag>sfg-pet-clinic-0.0.2</tag>
+    <tag>sfg-pet-clinic-0.0.1</tag>
   </scm>
 </project>
