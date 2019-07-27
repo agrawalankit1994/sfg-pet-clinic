@@ -6,9 +6,7 @@
 		<artifactId>sfg-pet-clinic</artifactId>
 		<version>0.0.1</version>
 	</parent>
-	<groupId>com.springframework</groupId>
 	<artifactId>pet-clinic-data</artifactId>
-	<version>0.0.1</version>
 	<name>pet-clinic-data</name>
 	<url>http://maven.apache.org</url>
 	<properties>
