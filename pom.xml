@@ -51,6 +51,5 @@
 		<module>pet-clinic-data</module>
 		<module>pet-clinic-web</module>
 	</modules>
-	<repositories> <repository> <id>mvnrepository</id> <url>http://mvnrepository.com/artifact/</url> 
-		</repository> </repositories>
+	
 </project>
