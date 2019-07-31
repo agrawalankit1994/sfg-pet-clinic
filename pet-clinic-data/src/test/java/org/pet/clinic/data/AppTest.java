@@ -1,4 +1,4 @@
-package org.pet.clinic.web;
+package org.pet.clinic.data;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
